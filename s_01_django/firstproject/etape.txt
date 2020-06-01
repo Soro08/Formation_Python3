@@ -1,0 +1,11 @@
+
+
+1. Liaissons de l'application
+
+
+2. configuration du dossier templates
+
+
+3. Les routes
+
+4. Les vues
